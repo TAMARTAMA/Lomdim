@@ -56,3 +56,4 @@ flowchart TD
   Web --> Supabase["Supabase: Auth, PostgreSQL, RLS, Storage"]
   Web --> Edge["Edge Functions / AI Integrations"]
   Web --> Vercel["Vercel Deployment"]
+  ```
