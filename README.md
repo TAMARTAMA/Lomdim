@@ -34,11 +34,19 @@ permissions, automated tests and CI/CD workflows.
 - Worked with staging and production deployments through GitHub Actions and Vercel.
 - Improved security, database policies and release workflows.
 
-## Screenshots
+## Product snapshots
 
-![Lomdim home page](assets/lomdim-home.png)
-![Lomdim learning experience](assets/lomdim-learning.png)
-![Lomdim profile](assets/lomdim-profile.png)
+### Platform home page
+![Lomdim home page](assets/lomdim-home-portfolio.jpg)
+
+### Core learning, sharing and community experience
+![Lomdim core experience](assets/lomdim-source-centered-learning.jpg)
+
+### Source-centred multimedia content
+![Lomdim source-centred content](assets/lomdim-source-content.jpg)
+
+### Scholars platform
+![Lomdim scholars experience](assets/lomdim-scholars-experience.jpg)
 
 ## Architecture
 
