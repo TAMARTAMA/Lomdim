@@ -1,4 +1,4 @@
-# Lomdim
+
 # Lomdim — Social Torah Learning Platform
 
 🔗 **Live platform:** https://lomdim.app
